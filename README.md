@@ -1,5 +1,3 @@
-# linco4d.github.io
-
 
 # Building Meaningful Apps with Data 🛠️🌫️
 
