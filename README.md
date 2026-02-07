@@ -1,11 +1,10 @@
-<a href="https://linco4d.github.io/">Lincoln's Website</a> © 2025 by <a href="https://example.com">linco4d</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 # linco4d.github.io
+
 
 # Building Meaningful Apps with Data 🛠️🌫️
 
 
 Hey! This is a snapshot of what I build and think about. Most of my work sits at the intersection of **Python automation**, **scientific/data workflows**, and **turning messy real-world inputs into something a team can actually use**.
-
 I just finished an **AQI Notifier** system I’ve been building. It's a Python-based pipeline that pulls air-quality data (e.g. for California / wildfire season), stores it, and emails updates on a schedule. It’s simple on the surface, but it touches a lot of things I care about: clean data models, reproducible scripts, and designing something that actually helps people.
 I’m an undergrad at **Claremont McKenna College** (Science Management, biotech focus) with a term at **Oxford** in Philosophy & Theology. You'll see an unusual mix of projects in here 🙂
 
@@ -84,3 +83,5 @@ I rotate between:
 
 If you’re working on **pipelines for scientific data**, **scrapers for research**, or **small ML systems that actually ship**, I’m happy to compare architectures or trade scripts.
 
+
+<a href="https://linco4d.github.io/">Lincoln's Website</a> © 2025 by <a href="https://example.com">linco4d</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
